@@ -1,2 +1,2 @@
 # LYES-RW
-Data repository for Lee-Yang edge singularity (Roberge-Weiss transition captured)
+Data repository for the study on QCD chiral phase transition, Roberge-Weiss transition and the Lee-Yang edge singularities (LYESs) via the Dyson-Schwinger equations (DSE) approach with gluonic background field (A0), see [Zi-yan Wan et al., Phys. Rev. D 112, 094007 (2025)](DOI: https://doi.org/10.1103/p7y6-hq15). 
